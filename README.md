@@ -4,7 +4,7 @@ If you are looking for someone who writes almost everything in the same one bori
 
 ## Some more exciting projects
 
-Unless specified otherwise, projects are written in Java.
+Unless specified otherwise, projects below are written in Java.
 
 ### Usable projects
 
