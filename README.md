@@ -1,6 +1,6 @@
 ## Hello there
 
-If you are looking for a guy who writes almost everything in the same one boring language, I'm your guy.
+If you are looking for someone who writes almost everything in the same one boring language, I'm your guy.
 
 ## Some more exciting projects
 
