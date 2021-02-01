@@ -16,7 +16,7 @@ Unless specified otherwise, projects are written in Java.
 
 * [xge-games-archive](https://github.com/kamil-sita/xge-games-archive) - archive of my custom game engine + 3 games that use the engine, including Floodtown - a Ludum Dare 42 entry
 
-* [ams-convolution](https://github.com/kamil-sita/asm-convolution) - high level (C#) + low levle (x64 assembly) implementation of algorithm that applies 1-dimensional kernel to image
+* [ams-convolution](https://github.com/kamil-sita/asm-convolution) - high level (C#) + low level (x64 assembly) implementation of algorithm that applies 1-dimensional kernel to image
 
 * [cpp-roguelike](https://github.com/kamil-sita/cpp-roguelike) - roguelike written in C++ + SFML.
 
