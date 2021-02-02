@@ -42,3 +42,11 @@ store pre-computed information. Modular, allows for adding new related systems a
 ### Things not to be added
 
 * rushed group projects
+
+|             | Java                                                                            | C++                      | Others                         |
+|-------------|---------------------------------------------------------------------------------|--------------------------|--------------------------------|
+| Games       | Wave Engine XGE Engine + Games                                                  | Roguelike                |                                |
+| Algorithms  | Simple K-Means                                                                  |                          | Convolution (x64 assembly, C#) |
+| Utility     | Simple Image Classifier  XIS (near duplicate image detection,  scan processing) |                          |                                |
+| Simulations |                                                                                 | Simple Traffic Simulator | Fitt's Law (Unity)             |
+| Others      |                                                                                 |                          | Gamepad (ATMega32u4, C)        |
