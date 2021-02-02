@@ -28,7 +28,7 @@ Unless specified otherwise, projects below are written in Java.
 
 * [wave-engine](https://github.com/kamil-sita/wave-engine) - Entity-Component-System based, multithreaded game engine. Contains examples 
 
-### Projects to be added
+### Projects to be added (and finished before adding here)
 
 * Image-Copy-Finder - slightly rewritten version of my thesis - an advanced system that allows for near duplicate search for images. Can use database via Hibernate to 
 store pre-computed information. Modular, allows for adding new related systems and comparison methods of images.
