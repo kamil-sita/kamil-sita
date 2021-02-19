@@ -16,6 +16,4 @@
 * Image-Copy-Finder - slightly rewritten version of my thesis - an advanced system that allows for near duplicate search for images. Can use database via Hibernate to 
 store pre-computed information. Modular, allows for adding new related systems and comparison methods of images.
 
-* gamepad - ATMega32u4-based gamepad that works like a keyboard
-
 * some other university projects before I lose their source code
