@@ -8,6 +8,7 @@
 | Utility     | [Simple Image Classifier](https://github.com/kamil-sita/simple-image-classifier) |                                                                                    |                                                                                 |
 |             | [XIS (image copy finder, scan processing)](https://github.com/kamil-sita/XIS)    |                                                                                    |                                                                                 |
 | Simulations |                                                                                  | [Simple Traffic Simulator](https://github.com/kamil-sita/simple-traffic-simulator) | [Fitt's Law (Unity)](https://github.com/kamil-sita/pwsgu)                       |
+| Hardware | | | [Gamepad (C, Atmega32u4)](https://github.com/kamil-sita/atmega32u4-gamepad) |
 
 
 ### Projects to be added (and finished before adding here)
