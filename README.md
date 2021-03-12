@@ -1,10 +1,10 @@
 
 |             | Java                                                                             | C++                                                                                | Others                                                                          |
 |-------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| Games       | [Wave Engine](https://github.com/kamil-sita/wave-engine)                         | [Roguelike](https://github.com/kamil-sita/cpp-roguelike)                           |                                                                                 |
+| Games       | **[Wave Engine](https://github.com/kamil-sita/wave-engine)**                         | [Roguelike](https://github.com/kamil-sita/cpp-roguelike)                           |                                                                                 |
 |             | [XGE Engine + Games](https://github.com/kamil-sita/xge-games-archive)            |                                                                                    |                                                                                 |
 | Algorithms  | [Simple K-Means](https://github.com/kamil-sita/simple_kmeans)                    |                                                                                    | [Image Convolution (x64 assembly, C#)](https://github.com/kamil-sita/asm-convolution) |
-| | | | [Sudoku Solver (C)](https://github.com/kamil-sita/sudoku-solver-c) |
+| | **[Image Copy Finder](https://github.com/kamil-sita/image-copy-finder)** | | [Sudoku Solver (C)](https://github.com/kamil-sita/sudoku-solver-c) |
 | Utility     | [Simple Image Classifier](https://github.com/kamil-sita/simple-image-classifier) |                                                                                    |                                                                                 |
 |             | [XIS (image copy finder, scan processing)](https://github.com/kamil-sita/XIS)    |                                                                                    |                                                                                 |
 | Simulations |                                                                                  | [Simple Traffic Simulator](https://github.com/kamil-sita/simple-traffic-simulator) | [Fitt's Law (Unity)](https://github.com/kamil-sita/pwsgu)                       |
@@ -13,7 +13,4 @@
 
 ### Projects to be added (and finished before adding here)
 
-* Image-Copy-Finder - slightly rewritten version of my thesis - an advanced system that allows for near duplicate search for images. Can use database via Hibernate to 
-store pre-computed information. Modular, allows for adding new related systems and comparison methods of images.
-
-* some other university projects before I lose their source code
+* some university projects before I lose their source code
