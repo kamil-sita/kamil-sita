@@ -18,3 +18,9 @@
 ### Projects to be added (and finished before adding here)
 
 * some university projects before I lose their source code
+
+### Currently working on
+
+* domain specific language interpreter
+* extensbile web scrapper
+
