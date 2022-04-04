@@ -3,6 +3,7 @@
 |-------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | Games       | **[Wave Engine](https://github.com/kamil-sita/wave-engine)**                         | [Roguelike](https://github.com/kamil-sita/cpp-roguelike)                           |                                                                                 |
 |             | [XGE Engine + Games](https://github.com/kamil-sita/xge-games-archive)            |                                                                                    |                                                                                 |
+| | **[Gone Out West](https://github.com/kamil-sita/gone-out-west)** | | |
 | Algorithms  | [Simple K-Means](https://github.com/kamil-sita/simple_kmeans)                    |                                                                                    | [Image Convolution (x64 assembly, C#)](https://github.com/kamil-sita/asm-convolution) |
 | | **[Image Copy Finder](https://github.com/kamil-sita/image-copy-finder)** | | [Sudoku Solver (C)](https://github.com/kamil-sita/sudoku-solver-c) |
 | Utility     | [Simple Image Classifier](https://github.com/kamil-sita/simple-image-classifier) |                                                                                    |                                                                                 |
