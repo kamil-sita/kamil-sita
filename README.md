@@ -12,9 +12,13 @@
 | Hardware | | | [Gamepad (C, Atmega32u4)](https://github.com/kamil-sita/atmega32u4-gamepad) |
 
 
-### Advent of Code
+### Programming puzzles
+
+Advent of Code
 
 [2021](https://github.com/kamil-sita/advent-of-code-2021)
+
+[Leetcode](https://github.com/kamil-sita/leetcode)
 
 ### Projects to be added (and finished before adding here)
 
@@ -24,4 +28,6 @@
 
 * domain specific language interpreter
 * extensbile web scrapper
+* some games
+* cpu simulator
 
