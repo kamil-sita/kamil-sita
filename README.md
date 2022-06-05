@@ -6,6 +6,7 @@
 | | **[Gone Out West](https://github.com/kamil-sita/gone-out-west)** | | |
 | Algorithms  | [Simple K-Means](https://github.com/kamil-sita/simple_kmeans)                    |                                                                                    | [Image Convolution (x64 assembly, C#)](https://github.com/kamil-sita/asm-convolution) |
 | | **[Image Copy Finder](https://github.com/kamil-sita/image-copy-finder)** | | [Sudoku Solver (C)](https://github.com/kamil-sita/sudoku-solver-c) |
+| | **[QuickParse](https://github.com/kamil-sita/QuickParse)** | | [Sudoku Solver (C)](https://github.com/kamil-sita/sudoku-solver-c) |
 | Utility     | [Simple Image Classifier](https://github.com/kamil-sita/simple-image-classifier) |                                                                                    |                                                                                 |
 |             | [XIS (image copy finder, scan processing)](https://github.com/kamil-sita/XIS)    |                                                                                    |                                                                                 |
 | Simulations |                                                                                  | [Simple Traffic Simulator](https://github.com/kamil-sita/simple-traffic-simulator) | [Fitt's Law (Unity)](https://github.com/kamil-sita/pwsgu)                       |
